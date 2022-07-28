@@ -4,11 +4,11 @@
 
 .main {
   min-height: 100vh;
-  padding: 4rem 0;
-  flex: 1;
+  max-width: 50rem;
+  margin: auto;
+  padding: 1rem;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
 }
 

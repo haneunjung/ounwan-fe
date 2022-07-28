@@ -14,9 +14,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "axios": "^0.27.2",
     "next": "12.2.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "recoil": "^0.7.4"
   },
   "devDependencies": {
     "@emotion/css": "^11.9.0",
